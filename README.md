@@ -1,7 +1,9 @@
-This project is an AI-powered Cover Letter Generator designed to streamline and personalize the job application process. By leveraging Large Language Models (LLMs) through APIs such as OpenAI GPT, this tool allows users to generate custom cover letters tailored to specific roles, companies, and personal skillsets with minimal effort.
+Project Overview: AI-Powered Cover Letter Generator
 
-The user inputs key details such as their name, position applied for, relevant experiences, achievements, and the target company. Based on this information, the backend constructs a dynamic prompt and sends it to the LLM, which returns a polished and structured cover letter. The user can then copy, modify, or export the letter for use in their applications.
+This project introduces an intelligent Cover Letter Generator that simplifies and personalizes the job application process using the power of AI. By integrating Large Language Models (LLMs) such as OpenAI's GPT through API calls, the tool helps users craft tailored cover letters with minimal manual effort.
 
-This tool addresses a common challenge faced by job seekers: writing personalized cover letters for each application. It reduces time and stress, while still producing high-quality and relevant content. The project showcases practical use of AI integration in real-world applications and serves as an example of combining frontend, backend, and AI APIs into a cohesive solution.
+Users provide essential details like their name, the job title they’re applying for, key experiences, notable achievements, and the target company. The system processes this input, dynamically builds a prompt, and sends it to the LLM. The result is a professionally written, role-specific cover letter that users can review, edit, or export for submission.
 
-It is built using a Python Flask backend, connected to a lightweight HTML/CSS frontend. The application can be deployed on local or cloud environments, making it accessible and scalable for wider use.
+The tool addresses a common hurdle for job seekers—writing unique cover letters for each job. It streamlines this task, saving time while maintaining a high standard of quality and personalization.
+
+Built using a Python Flask backend and a simple HTML/CSS frontend, the application is lightweight, user-friendly, and can be deployed either locally or in the cloud. It stands as a practical example of how AI can be integrated into everyday applications to improve efficiency and user experience.
